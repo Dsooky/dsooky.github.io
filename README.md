@@ -1,5 +1,4 @@
-# dsooky.github.io
-omar dsooky ux
+#omar dsooky ux
 
 
 UX Product Designer, conversion rate optimizer (CRO) with a focus on UX,
